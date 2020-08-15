@@ -1,6 +1,6 @@
 # Thyroid-Diagnosis
 Approximately 200 million people in the world have one of the thyroid disease categories. In Canada a large number of people  are affected. Recent studies have revealed that 1 in 10 Canadians suffer from a thyroid condition of one type or another! Of those, as many as 50% are undiagnosed! (based on data in https://thyroid.ca/)
-## Main types of Thyroid:
+### Main types of Thyroid:
 Types of Thyroid problem:
 1) Hypothyroidism: The thyroid fails to make enough thyroid hormones and slows down many of your body's functions
 
